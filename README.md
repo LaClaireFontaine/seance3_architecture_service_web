@@ -1,0 +1,1 @@
+# seance3_architecture_service_web
